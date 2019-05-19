@@ -70,9 +70,9 @@ function App() {
           {/*Skills Sec*/}
           <Skills/>
           {/*/Skills Sec*/}
-          <hr className="separater-hr" />
+          {/* <hr className="separater-hr" /> */}
           {/*Work Sec*/}
-          <Work/>
+          {/* <Work/> */}
           {/*/Work Sec*/}
           <hr className="separater-hr" />
           {/*Qualfication Sec*/}
