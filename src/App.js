@@ -1,13 +1,13 @@
 import React from 'react';
 import './App.css';
 import About from './About.js';
-import Services from './Services.js';
+// import Services from './Services.js';
 import Skills from './Skills';
 // import Work from './Work';
 import Education from './Education';
 import Experience from './Experience';
-import Clients from './Clients';
-import Achivements from './Achivements';
+// import Clients from './Clients';
+// import Achivements from './Achivements';
 import Contact from './Contact';
 import Footer from './Footer';
 
@@ -88,9 +88,9 @@ function App() {
           {/*/Client Sec*/}
           {/* <hr className="separater-hr" /> */}
           {/*Achivement Sec*/}
-          <Achivements/>
+          {/* <Achivements/> */}
           {/*/Achivement Sec*/}
-          <hr className="separater-hr" />
+          {/* <hr className="separater-hr" /> */}
           {/*Contact Sec*/}
           <Contact/>
           {/*Contact Sec*/}

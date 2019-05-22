@@ -2,10 +2,7 @@ import React, { Component } from 'react';
 
 
 class Services extends Component {
-    constructor(props){
-        super(props);
-        
-    }
+    
 
   render(){
     return(
@@ -16,32 +13,6 @@ class Services extends Component {
                 <span className="available-tag">Available for Freelance Projects.</span>
               </div>
               <div className="col-sm-6">
-                <div className="social-icons-wrap float-right">
-                  {/*Social Icons*/}
-                  <ul className="social-icons float-right">
-                    <li>
-                      <a href="#" className="social-icon">
-                        <span className="fa" data-hover=""></span>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#" className="social-icon">
-                        <span className="fa" data-hover=""></span>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#" className="social-icon">
-                        <span className="fa" data-hover=""></span>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#" className="social-icon">
-                        <span className="fa" data-hover=""></span>
-                      </a>
-                    </li>
-                  </ul>
-                  {/*/Social Icons*/}
-                </div>
                 <div className="goto-top text-right float-right">
                   <a data-scroll href="#body">
                     <span data-hover="top">
