@@ -13,27 +13,27 @@ class Services extends Component {
             <h6>what i do</h6>
             <div className="row">
               <div className="col-sm-3 col-xs-6 margin-bottom-sm icon-wrap wow fadeInLeft" data-wow-duration=".4s" data-wow-delay="0s">
-                <span className="icon pe-7s-network" />
+                {/* <span className="icon pe-7s-display1" /> */}
                 <span className="key-fact">
-                  STUDENT
+                    WEB DEVELOPING
                 </span>
               </div>
               <div className="col-sm-3 col-xs-6 margin-bottom-sm icon-wrap wow fadeInLeft" data-wow-duration=".4s" data-wow-delay=".1s">
-                <span className="icon pe-7s-vector" />
+                {/* <span className="icon pe-7s-vector" /> */}
                 <span className="key-fact">
-                  HAND LETTERING
+                  PROGRAMMING
                 </span>
               </div>
               <div className="col-sm-3 col-xs-6 margin-bottom-sm icon-wrap wow fadeInLeft" data-wow-duration=".4s" data-wow-delay=".2s">
-                <span className=" icon pe-7s-camera" />
+                {/* <span className=" icon pe-7s-graph2" /> */}
                 <span className="key-fact">
-                  ORAGNIZATION
+                  DESIGNING
                 </span>
               </div>
               <div className="col-sm-3 col-xs-6 margin-bottom-sm icon-wrap wow fadeInLeft" data-wow-duration=".4s" data-wow-delay=".3s">
-                <span className="icon pe-7s-portfolio" />
+                {/* <span className="icon pe-7s-graph1" /> */}
                 <span className="key-fact">
-                  MANAGEMENT
+                  ANALYST
                 </span>
               </div>
             </div>	

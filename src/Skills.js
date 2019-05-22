@@ -2,16 +2,12 @@ import React, { Component } from 'react';
 
 
 class Skills extends Component {
-    constructor(props){
-        super(props);
-
-    }
 
   render(){
     return(
         <section id="skill_sec" className="col-lg-10 col-md-11 col-sm-11 center-div skills-wrap  sec-pad-top sec-pad-bottom-xs">
         <h6>technical skills</h6>
-        <p className="wow fadeInUp" data-wow-duration=".4s">Sebagai seorang mahasiswa diploma jurusan Ilmu Komputer dan Sistem Informasi saya dituntut untuk menguasai salah satu dari teknologi yang ada seperti Web Development maupun Mobile Development. Pada jurusan ini saya dituntut untuk dapat berpikir kritis, empati dan kreativitas untuk menciptakan solusi yang layak dan berdampak menggunakan teknologi ini.
+        <p className="wow fadeInUp" data-wow-duration=".4s" align="justify">As a diploma student in Computer Science and infomation System, I was required to know about one of the existing technologies such as Web Development and Mobile Development. In this department, I am required to be able to think critically, empathy and creativity to create  impactful solutions using this technology.
         </p>
         <div className="row margin-top-40">
           <div className="col-sm-5 margin-bottom-sm">
@@ -19,8 +15,8 @@ class Skills extends Component {
             <div className="progress-bar-graph"> 
               <div className="progress-bar-wrap">
                 <div className="bar-wrap">
-                  <span data-width={97}>
-                    <strong><i>97</i>%</strong>
+                  <span style={{width: '90%'}}>
+                    <strong style={{opacity: 100}}><i>90</i>%</strong>
                   </span>
                 </div>
               </div>	
@@ -31,8 +27,8 @@ class Skills extends Component {
             <div className="progress-bar-graph"> 
               <div className="progress-bar-wrap">
                 <div className="bar-wrap">
-                  <span data-width={97}>
-                    <strong><i>97</i>%</strong>
+                  <span style={{width: '95%'}}>
+                    <strong style={{opacity: 100}}><i>90</i>%</strong>
                   </span>
                 </div>
               </div>	
@@ -44,8 +40,8 @@ class Skills extends Component {
             <div className="progress-bar-graph"> 
               <div className="progress-bar-wrap">
                 <div className="bar-wrap">
-                  <span data-width={100}>
-                    <strong><i>100</i>%</strong>
+                  <span style={{width: '90%'}}>
+                    <strong style={{opacity: 100}}><i>90</i>%</strong>
                   </span>	
                 </div>
               </div>	
@@ -56,8 +52,8 @@ class Skills extends Component {
             <div className="progress-bar-graph"> 
               <div className="progress-bar-wrap">
                 <div className="bar-wrap">
-                  <span data-width={100}>
-                    <strong><i>100</i>%</strong>
+                  <span style={{width: '90%'}}>
+                    <strong style={{opacity: 100}}><i>90</i>%</strong>
                   </span>
                 </div>
               </div>	
@@ -69,21 +65,21 @@ class Skills extends Component {
             <div className="progress-bar-graph"> 
               <div className="progress-bar-wrap">
                 <div className="bar-wrap">
-                  <span data-width={86}>
-                    <strong><i>86</i>%</strong>
+                  <span style={{width: '95%'}}>
+                    <strong style={{opacity: 100}}><i>90</i>%</strong>
                   </span>
                 </div>
               </div>	
             </div>
           </div>
           <div className="col-sm-offset-1 col-sm-5 margin-bottom-sm">
-            <span className="progress-cat">Corel Draw</span>
+            <span className="progress-cat">Javascript</span>
             <div className="progress-bar-graph"> 
               <div className="progress-bar-wrap">
                 <div className="bar-wrap">
                   <div className="bar-wrap">
-                    <span data-width={86}>
-                      <strong><i>86</i>%</strong>
+                    <span style={{width: '80%'}}>
+                      <strong style={{opacity: 100}}><i>90</i>%</strong>
                     </span>
                   </div>	
                 </div>

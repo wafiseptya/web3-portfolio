@@ -49,7 +49,7 @@ function App() {
             <div className="float-left name">
               <a data-scroll href="#body">
                 <span>
-                  MAIDA KRISMA RAJAGUKGUK
+                  HANIF WAFI SEPTYAPRAMUDITA
                 </span>
               </a>	
             </div>	
@@ -64,9 +64,9 @@ function App() {
           {/*/Introduction Sec*/}
           <hr className="separater-hr" />
           {/*WhatWeDo Sec*/}
-          <Services/>
+          {/* <Services/> */}
           {/*/WhatWeDo Sec*/}
-          <hr className="separater-hr" />
+          {/* <hr className="separater-hr" /> */}
           {/*Skills Sec*/}
           <Skills/>
           {/*/Skills Sec*/}
@@ -84,9 +84,9 @@ function App() {
           {/*/Experience Sec*/}
           <hr className="separater-hr" />
           {/*Client Sec*/}
-          <Clients/>
+          {/* <Clients/> */}
           {/*/Client Sec*/}
-          <hr className="separater-hr" />
+          {/* <hr className="separater-hr" /> */}
           {/*Achivement Sec*/}
           <Achivements/>
           {/*/Achivement Sec*/}

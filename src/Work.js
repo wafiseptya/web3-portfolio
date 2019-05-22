@@ -2,10 +2,7 @@ import React, { Component } from 'react';
 
 
 class Works extends Component {
-    constructor(props){
-        super(props);
-      
-    }
+    
 
   render(){
     return(

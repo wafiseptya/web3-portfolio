@@ -2,10 +2,6 @@ import React, { Component } from 'react';
 
 
 class Experience extends Component {
-    constructor(props){
-        super(props);
-        
-    }
 
   render(){
     return(
@@ -19,12 +15,12 @@ class Experience extends Component {
                 <div className="col-xs-10 exp-content-wrap">
                   <div className="row">
                     <div className="wow fadeInRight" data-wow-duration=".4s" data-wow-delay="0s">
-                      <div className="col-sm-3 duration"><span>mar 2014 - present</span></div>
+                      <div className="col-sm-3 duration"><span>2019 - present</span></div>
                       <div className="col-sm-9">
-                        <span className="job-desn">UI/UX designer</span>
-                        <span className="job-loc">fakebook Studio, New York
+                        <span className="job-desn">Full-Stack Web Developer </span>
+                        <span className="job-loc">5th Public Health SYMPOSIUM 2019
                         </span>
-                        <p className="job-summary p-small">In this small yet expanding company, I had the opportunity to turn my passion for the web in a job right after graduation. Being the only designer in the company I have often dealt with the whole process of designing for our customers.</p>
+                        <p className="job-summary p-small">In this project from Kalikesia to create a web event and registration for 5th UGM Public HEalth SYMPOSIUM 2019, i had the opportunitu to turn my passion for being an a Full Stack Web developer.</p>
                       </div>
                     </div>	
                   </div>
@@ -37,12 +33,12 @@ class Experience extends Component {
                 <div className="col-xs-10 exp-content-wrap">
                   <div className="row">
                     <div className="wow fadeInRight" data-wow-duration=".4s" data-wow-delay="0.2s">
-                      <div className="col-sm-3 duration"><span>Jul 2013 — Mar 2014</span></div>
+                      <div className="col-sm-3 duration"><span>Jul 2018 — Mar 2018</span></div>
                       <div className="col-sm-9">
-                        <span className="job-desn">Art Director</span>
-                        <span className="job-loc">dropzone, NYC
+                        <span className="job-desn">Front-End Web Developer</span>
+                        <span className="job-loc">Mini Bank Sekolah Vokasi UGM
                         </span>
-                        <p className="job-summary p-small">Being in a very well structured company, with clear and defined work procedures, helped me grow both personally and professionally, as well as enjoying a young and international working environment. I had the opportunity to redefine the way I work in a more intelligent way.</p>
+                        <p className="job-summary p-small">The first year I attended the Vocational School I had the opportunity to develop my talent in the Front End field in the SV Bank Mini Bank project. Mini bank is a collaborated project between PT. Bank Central Asia and  Sekolah Vokasi, Universitas Gadjah Mada to create banking system.</p>
                       </div>
                     </div>	
                   </div>
@@ -57,11 +53,11 @@ class Experience extends Component {
                     <div className="wow fadeInRight" data-wow-duration=".4s" data-wow-delay="0.4s">
                       <div className="col-sm-3 duration"><span>Jan 2013 – Jul 2013</span></div>
                       <div className="col-sm-9">
-                        <span className="job-desn">Graphic Designer
+                        <span className="job-desn">Assistant Lecturer
                         </span>
-                        <span className="job-loc">Sagmeesterwaash, NYC
+                        <span className="job-loc">Sekolah Vokasi, Universitas Gadjah Mada
                         </span>
-                        <p className="job-summary p-small">Being the first design agency in my career and being one among the best in New York, I've learned to be proficient in a fast-paced work environment.</p>
+                        <p className="job-summary p-small">Assist lab practicum on subject Computer Installation Management, Programming Algorith at Computer Information System, UGM.</p>
                       </div>
                     </div>	
                   </div>
@@ -74,13 +70,32 @@ class Experience extends Component {
                 <div className="col-xs-10 exp-content-wrap">
                   <div className="row">
                     <div className="wow fadeInRight" data-wow-duration=".4s" data-wow-delay="0.6s">
-                      <div className="col-sm-3 duration"><span>Oct 2011 – Jan 2013</span></div>
+                      <div className="col-sm-3 duration"><span>November 2017 – present</span></div>
                       <div className="col-sm-9">
-                        <span className="job-desn">Design Assistant
+                        <span className="job-desn">Informatics Learning Club
                         </span>
-                        <span className="job-loc">Woodfoote  Ducks, California
+                        <span className="job-loc">Student Association of Computer Information Systems
                         </span>
-                        <p className="job-summary p-small">Create frameworks to guide critical thinking, to streamline the ideation process and to visualize complex concepts. Uses various graphic approaches to make complex ideas more tangible.</p>
+                        <p className="job-summary p-small">A project focusing on studies that held by Study Intra Scientica Division</p>
+                      </div>
+                    </div>	
+                  </div>
+                </div>	
+              </div>
+              <div className="row exp-timeline">
+                <div className="col-xs-2">
+                  <div className="timeline-st" />
+                </div>
+                <div className="col-xs-10 exp-content-wrap">
+                  <div className="row">
+                    <div className="wow fadeInRight" data-wow-duration=".4s" data-wow-delay="0.6s">
+                      <div className="col-sm-3 duration"><span>Oct 2017 – April 2018</span></div>
+                      <div className="col-sm-9">
+                        <span className="job-desn">Technical Support, Front-End Web Developer
+                        </span>
+                        <span className="job-loc">VOCOMFEST 2018
+                        </span>
+                        <p className="job-summary p-small">A national computing contest that held by Student Association of Computer and Information System.</p>
                       </div>
                     </div>	
                   </div>
